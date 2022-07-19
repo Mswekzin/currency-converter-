@@ -1,4 +1,4 @@
-# Getting Started with Create React App.... Disclaimer didn't get as much time to Containerize the app
+# Getting Started with Create React App.... 
 
 ## Available Scripts
 
